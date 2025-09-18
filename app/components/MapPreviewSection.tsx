@@ -21,14 +21,7 @@ export default function MapPreviewSection() {
             </ul>
           </div>
 
-          {/* Right Map Image */}
-          <div className="md:w-1/2">
-            <img
-              src="/campus-map.png"
-              alt="Campus Map Preview"
-              className="w-full rounded-lg shadow-lg"
-            />
-          </div>
+          
         </div>
       </div>
     </section>
